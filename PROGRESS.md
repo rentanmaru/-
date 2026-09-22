@@ -13,7 +13,7 @@
 - [x] 0-2 `git config` で名前とメールを設定する
 - [x] 0-3 `00-setup/hello.js` を自分で書いて `node hello.js` で実行する
 - [x] 0-4 `git add` → `git commit` を自分の手で行う
-- [ ] 0-5 GitHub アカウントを作り、このリポジトリを push する（自分で実施）
+- [x] 0-5 GitHub アカウントを作り、このリポジトリを push する（自分で実施）
 - [ ] 0-6 Git 練習: `branch` を切って変更し、`checkout` で戻り、`log` で確認する
 
 ## フェーズ 1（第 1〜4 週）JavaScript 基礎
